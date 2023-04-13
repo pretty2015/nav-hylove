@@ -1,0 +1,676 @@
+背景图：https://pic.imgdb.cn/item/627230c70947543129e5534f.jpg
+竖版背景图：
+音乐：开发中 后序支持
+# 呼叫大哥
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 阿虚同学 | https://www.axutongxue.net | 大佬❤ |
+| imyshare | https://www.imyshare.com/ | |
+| 优聚集书签 | https://nav.ujuji.com/ | 大佬个人自用书签 |
+| 兰客社区 | http://b.lackk.com/ | 优质网站收集 |
+| topbook | https://topbook.cc/overview | 高效生活视频书 |
+| 奔跑中的奶酪 | https://www.runningcheese.com/ | 优质博客，浏览器定制，技能分享 |
+| 乐愚社区 | https://bbs.leyuz.net/ | |
+| 白的夜 | https://baideye.com/ | |
+| 图欧学习资源库 | https://tuostudy.com/ | |
+| 姿势论坛 | https://bbs.zsxwz.com/ | |
+| 科技玩家 | https://www.kejiwanjia.com/ | |
+
+# blog
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 闪电博 | https://www.wbolt.com/ | 专注word press主题插件开发 |
+| 陈默的blog | https://chenmo1212.cn/ | nb的当代大学生 |
+| 卡本风 | https://bkfeng.top/ | |
+| 杂谈by立行 | https://www.zj1123581321.com/ | |
+| 懒得勤快 | https://ldqk.xyz/ | 稀缺资源 |
+| 晚晴幽草轩 | https://www.jeffjade.com/ | |
+| 阮一峰的网络日志 | https://www.ruanyifeng.com/blog/ | |
+| 月光博客 | https://www.williamlong.info/ | |
+| 猿宇宙 | https://yftk.fun/ | |
+| 博客大全 | https://blogwe.com/ | |
+| 挖互联网 | https://tigg.cc/ | 发现有趣有用的互联网 |
+| word press大学 | https://www.wpdaxue.com/ | wp相关资料 |
+| Xhofe's Blog | https://www.nn.ci/ | alist搭载 |
+| wp实战课 | https://www.easywpbook.com/ | |
+| 小康博客 | https://www.antmoe.com/ | |
+| butterfly文档 | https://butterfly.js.org/ | |
+| 小冰博客 | https://zfe.space/ | butterfly魔改插件 |
+| Akilarの糖果屋 | https://akilar.top/ | 魔改达人 |
+| 小嘉的部落格 | https://blog.imzjw.cn/ | 魔改大佬 |
+| wp站点获取 | https://themesinfo.com/ | |
+| 以西的自留地 | https://y1xi.eu.org | |
+| 利器 | https://liqi.io/ | |
+| 博客导航 | https://opensources.eu.org/ | |
+| 涅槃博客 | https://love2wind.cn/ | |
+| 黑石博客 | https://www.heson10.com/ | |
+| 游魂博客 | https://www.iyouhun.com/ | 源码分享 |
+| eureka! | https://eureka.mba/ | |
+| 主题狗 | https://themes.dog/ | 博客主题推荐 |
+| Bf主题美化 | https://butterfly.zhheo.com/ | |
+
+# 解析
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 天翼云盘解析 | https://sunpma.com/other/tianyiyun/ | |
+| 天翼云盘解析 | https://189.ly93.cc/ | |
+| KinhDown在线解析 | https://baidu.kinh.cc/?Type=LinkParsing | |
+| 文库下载助手 | https://imwcr.cn/api/GetDocumentText/ | |
+| kd天翼云解析 | https://189.kinh.cc/?Type=LinkParsing | |
+| 淘链客 | https://www.toplinks.cc/s/ | 文档查询 |
+| pandownload | http://pandownload.net/ | |
+| 爱哔哩工具站 | http://www.ibilibili.com/ | B站视频解析 |
+| 百度文库解析 | http://www.html22.com/d/ | |
+| 读秀书解析 | https://beta.ssdown.org/ | |
+| 读秀书解析2 | https://freembook.com/ | |
+
+# Cloud
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| vercel | https://vercel.com | |
+| Cloudflare | https://www.cloudflare.com/zh-cn | |
+| Netlify | https://app.netlify.com | |
+| 阿里云 | https://www.aliyun.com/ | |
+| 西部数码 | https://www.west.cn/ | |
+| 腾讯云 | https://cloud.tencent.com/ | |
+| GoDaddy | https://sg.godaddy.com/zh | |
+| 华为云 | https://www.huaweicloud.com/ | |
+| 七牛云 | https://www.qiniu.com/ | |
+| 草根域名网 | http://www.cg/ | |
+| history | https://hostry.com/ | |
+| eu.org | https://nic.eu.org/arf/en/ | |
+| 又拍云 | https://console.upyun.com/dashboard/ | |
+| 棱束链 | https://www.lingshulian.com/ | |
+| gridea | https://gridea.dev/ | |
+
+# 闭关修炼
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| up考研资料分享 | https://www.yuque.com/qjl988/upky_ziliao | |
+| 研控 | https://xn--izu34f5t3d.com/ | |
+| 安心考研 | http://axky.ysepan.com/ | |
+| 金榜题名 | http://qzbltushu.ysepan.com/ | |
+| 大考研资料库 | http://dakaoyan.ysepan.com/ | |
+| 考研学子之家 | http://kyxz.ysepan.com/ | |
+| 中国研招网 | https://yz.chsi.com.cn/ | |
+| 教育在线考研真题 | https://kaoyan.eol.cn/e_ky/zt/common/zhenti/ | |
+| 良好建筑史 小鹅通 | http://appreo9dgjn3969.h5.xiaoeknow.com/p/course/camp/term_63238d77489c7_iI6VEM | |
+| 大学生必备网 | https://www.dxsbb.com/ | |
+| 情绪士多 | https://www.emostore.club/ | 建筑考研必备 |
+| 1895春季课 | https://appirdpr84k1365.h5.xiaoeknow.com/p/course/camp/term_63c4bf4819773_KW4UwD?content_app_id= | |
+| 田静长难句每日一句 | https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0NjAxMzAyMQ==&action=getalbum&album_id=2306215395915104257#wechat_redirect | |
+
+# 宝藏库
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 果壳剥网 | https://www.ghxi.com/ | |
+| 52破解 | https://www.52pojie.cn/ | |
+| 大眼仔 | http://www.dayanzai.me/?dgxano=twdxo1 | 专注办公软件资源分享 |
+| 独孤求软 | http://www.dugubest.com/all/download | 常用软件，一站齐全 |
+| 最佳应用 | http://www.zuijiastore.com | 分享好玩有趣实用软件 |
+| 搜软 | https://www.lanzou8.com/index.html | 手机破解软件 |
+| DVA导航 | http://www.ttdva.com/ | 线报资源 |
+| 人生苦短，不妨一试！ | http://z007.ys168.com/ | |
+| 不死鸟分享 | https://iao.su/ | |
+| 合集网 | https://233heji.com/ | 各类合集 |
+| 小刀娱乐网 | https://www.x6d.com/ | 专注活动软件线报 |
+| 异星软件空间 | https://www.yxssp.com/ | |
+| 软件sos | https://www.rjsos.com/ | 软件安装激活管家 |
+| 小众软件 | https://www.appinn.com/ | |
+| 便携绿色软件 | https://portableappk.com/ | 便携绿色软件 |
+| nv资源网 | https://noisevip.cn/ | 优质综合类资源收录 |
+| 搜天地 | https://www.soutd.com/ | 各种教程素材 |
+| itellyou | https://msdn.itellyou.cn/ | windows镜像 |
+| 百度网盘搜索 | https://aizhaomu.com/ | |
+| MEFCL | https://www.mefcl.com/ | 分享纯净好资源 |
+| noise`wiki | https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/fodkuzz5eaw0w | |
+| 科学刀 | https://www.kxdao.net/ | |
+| apkcombo | https://apkcombo.com/zh/ | 安卓软件下载 |
+| piratepc | https://piratepc.me/ | 绿色版便携软件 |
+| 便携app下载 | https://portableapps.com/zh-cn | |
+| 学习猫 | https://learncat.cn/home | |
+| iwin10 | https://iwin10.net/ | |
+| jokerps | https://www.jokerps.com/ | |
+| 反斗软件 | http://www.apprcn.com/ | |
+| 我看世界 | http://www.isworld.net/home/ | 高效分享书签和知识的收集平台 |
+| 夏雨源码网 | https://wws.iyuanm.com/ | |
+| 软仓 | https://www.ruancang.net/#/sim | |
+| crackingcity | https://www.crackingcity.com/ | 最新的破解或补丁免费下载链接 |
+
+# 自留地
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 优聚集网盘聚合 | https://lzpan.com/ | |
+| 一个网盘 | http://pan.aihao.cc/ | 工具类软件下载 |
+| 天翼小站 | https://yun.hei521.cn/ | 天翼云盘 |
+| 熊泵网盘搜索 | https://www.xiongbeng.com/ | |
+| 迅雷小站 | https://zhan.xunlei.com/ | 迅雷资源 |
+| 汤姆聚合搜索 | https://www.tomfind.com/ | |
+| 阿里云盘资源导航 | https://aliyun.panpanr.com/ | 导航站 |
+| 毕方铺网盘资源搜索 | https://www.iizhi.cn/ | |
+| 飞猪盘 | https://www.feizhupan.com/#/ | 稳定百度网盘搜索引擎 |
+| 超能搜 | https://www.chaonengso.com/ | 网盘搜索引擎聚合 |
+| niceso | https://www.niceso.fun/ | |
+| edudisk 资源网盘 | http://jcjys.edudisk.cn/allshare.aspx | 工程资料 |
+| up云搜 | https://www.upyunso.com/ | |
+| 优聚搜 | https://ujuso.com/ | |
+| skrbt | https://iskrbt01.xyz/ | |
+
+# 啧啧啧
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+# 应用
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 硬件性能天梯榜 | https://www.expreview.com/ | |
+| anki中文网 | https://file.ankichinas.cn/ | |
+| 微PE工具箱 | https://www.wepe.com.cn/ | |
+| 谷歌镜像 | https://xn--flw351e.ml/ | |
+| 微pe | https://www.wepe.com.cn/ | |
+| 唧唧down | http://client.jijidown.com/ | 下载bilibili视频 |
+| 傲梅win文件恢复 | https://www.disktool.cn/recovery/winfr.html | Windows文件恢复（微软命令行程序）的免费图形界面，帮您 |
+| verycapture | https://verycapture.com/cn/index.html | |
+| anki | https://ankiweb.net/about | |
+| v2ex | https://www.v2ex.com/ | |
+| 欧陆词典 | https://dict.eudic.net/ | |
+
+# 自媒体
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| i排版 | http://ipaiban.com/ | |
+| Md2All_1 | http://md.aclickall.com/ | 一键排版 |
+| 微信公众号格式化编辑器 | https://lab.lyric.im/wxformat/ | |
+| 公众号 Md编辑器 | https://prod.zkqiang.cn/wxeditor/index.html | |
+| 公众号图文消息编辑器 | https://ufologist.github.io/wechat-mp-article/editor.html | |
+| MPE编辑器 | http://js8.in/mpeditor/ | # 公众号 Markdown 编辑器 |
+| 有点逼格的md编辑器 | https://knb.im/mp/ | |
+| html to md | http://markdown.liangtengyu.com:9999/#/ | markdown解析 |
+| 《微信公众号同步助手》 | https://chrome.google.com/webstore/detail/hchobocdmclopcbnibdnoafilagadion | |
+| 新榜编辑器 | https://edit.newrank.cn/ | 公众号编辑器 |
+| obsidian中文教程 | https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/2021%E5%B9%B4%E6%96%B0%E6 | |
+
+# 建筑参考
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 建筑日报 | https://www.archdaily.cn/cn | 案例 |
+| 筑龙学社 | https://www.zhulong.com/ | |
+| 谷德设计网 | https://www.gooood.cn/ | 案例 |
+| Archilovers | https://www.archilovers.com/ | 案例 |
+| 建筑学院 | http://www.archcollege.com/ | |
+| 建筑竞赛 | https://www.rebang360.com/ | |
+| 褶子城市 | http://www.foldcity.com/forum-2-1.html | 建筑竞赛 |
+| koozarch | http://www.koozarch.com/ | 竞赛风格图纸 |
+| OMMX | http://www.officemmx.com/ | 插画风格图纸 |
+| beta-arch | https://www.beta-architecture.com/ | 黑白风格图纸 |
+| Data-Driven | https://d3js.org/ | 分析图表达 |
+| socks-studio | https://socks-studio.com/ | 插画风格图纸 |
+| 经典建筑索引 | https://www.treemode.com/ | |
+| big事务所项目集 | https://big.dk/#projects | |
+| Arch record | https://www.architecturalrecord.com/ | |
+| mooool | https://mooool.com/ | 国内近几年备受关注的专业景观案例平台 |
+| Dsignboom | https://www.designboom.com/ | 独立报道一系列设计，建筑，艺术，摄影及平面设计方面的先锋作品 |
+| dezeen | https://www.dezeen.com/ | 最流行的和最有影响力的建筑设计杂志网站之一 |
+| β（贝塔网） | https://www.beta-architecture.com/ | 专注未建成的竞赛方案 |
+| behance | https://www.behance.net/ | 全球顶级设计大神云集的网站，专注设计创意图纸分享 |
+| 拓者设计吧 | https://www.tuozhe8.com/ | 室内设计&装修设计 |
+| 设计邦 | http://www.designboom.cn/ | |
+| 风景园林网 | http://chla.com.cn/ | |
+| 设计家 | https://www.mysearchome.cn/ | 室内设计 |
+| 室内设计联盟 | https://cool-de.com/portal.php | |
+| 达人室内设计网 | https://www.wonadea.com/ | |
+| 木藕设计网 | https://mooool.com/ | 专业景观设计 |
+| 筑视网 | https://www.zshid.com/ | |
+
+# 建筑素材
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| Archgo | http://archgo.com/index.php | su模型下载 |
+| 韩世麟的建筑图像日志 | http://hanshilin.com/ | 教程类分享 |
+| 紫天su中文网 | http://www.sublog.net/ | SU模件,软件 |
+| 批给屋 | https://www.pgive.com/ | 建筑知识付费平台 |
+| 知筑导航 | http://www.archi123.com/#/ | 建筑设计资源导航 |
+| 光辉城市 | https://www.sheencity.com/mars | |
+| 草图模型网 | http://www.52edy.com/ | su模型 |
+| 次世代设计资料库 | http://app.easyref.design/ | 设计资料库 |
+| su吧 | https://www.sketchupbar.com/ | |
+| vray教程 | https://www.uzing.net/ | |
+| 拓筑在线 | https://www.eeeetop.com/ | 建筑设计交流论坛 |
+| 建筑学长 | http://www.jianzhuxuezhang.com/ | |
+| 工程资料库 | http://www.gong123.com/ | |
+| 设计小教室 | https://www.designdid.top/ | |
+| 筑益导航 | https://nav.zhu-yi.net/ | 建筑生导航网站 |
+| 3d溜溜网 | https://www.3d66.com/ | 模型下载 |
+| 标准网 | https://www.biaozhun.org/ | 国家标准规范查询 |
+| 国家标准网 | http://www.biaozhun8.cn/ | |
+| 学学兔 | http://www.bzfxw.com/ | |
+| 设计院评价网 | https://sjypj.com/ | |
+| 铅笔会素材下载 | http://www.qbihui.com/ | |
+| awhouse | https://www.awhouse.art/ | |
+| 一手建筑 | https://www.firstinarchitecture.co.uk/ | |
+| archgo模型库 | http://archgo.cn/ | |
+| 建筑曲奇导航 | https://archcookie.com/ | |
+| 专筑网 | http://www.iarch.cn/ | |
+| 筑名导航 | http://www.archiname.com/ | |
+| 吾爱标准网 | https://www.52biaozhun.com/ | |
+| 小帅学长 | https://www.jiegoujianzhu.com/ | |
+
+# 参数化
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 极速工作流 | https://super-workflow.com/ | 极速工作流 全新混合式交互课程 |
+| 犀牛&gh扩展 | https://www.food4rhino.com/en | |
+| gh论坛 | https://www.grasshopper3d.com/ | |
+| 犀流堂 | https://www.rhinostudio.cn/ | |
+| 100GH运算详解 | https://www.kancloud.cn/rhinostudio/ghuse100/1665388 | |
+| Form|Algo | https://www.jinjieming.com/grasshoppertutorial/ | Grasshopper教程 |
+| gh运算速查词典 | https://www.kancloud.cn/li457357416/ghdictionary-edit/3009583 | |
+| NCF参数化建筑联盟 | http://bbs.ncf-china.com/forum.php | |
+| arch ai | https://arko.ai/ | |
+
+# 编程
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| python学习 | https://www.pypypy.cn/ | |
+| 廖雪峰老师编程 | https://www.liaoxuefeng.com/ | |
+| 菜鸟教程 | https://www.runoob.com/ | |
+| python官方 | https://www.python.org/ | |
+| python入门 | https://www.bilibili.com/video/BV1Qx411Z7Xk?p=1 | |
+| csdn-专业开发者社区 | https://www.csdn.net/ | |
+| py异常类型擦查询 | https://www.runoob.com/python/python-exceptions.html | |
+| HTML 标签参考手册 | https://www.w3school.com.cn/tags/index.asp | |
+| Git控制系统教程 | https://learngitbranching.js.org/?locale=zh_CN | |
+| 变量命名 | https://unbug.github.io/codelf/ | |
+| py中文文档 | https://www.osgeo.cn/cpython/ | |
+| 1-100天py学习思路 | https://github.com/jackfrued/Python-100-Days | |
+| Markdown官方教程 | https://markdown.com.cn/intro.html | |
+| hellogithub | https://hellogithub.com/ | 分享 GitHub 上 有趣、入门级的开源项目 |
+| 各种语言实战教程 | https://github.com/practical-tutorials/project-based-learning | |
+| 编程语言快速参考 | https://quickref.me/ | |
+| Python项目实例 | https://practicalpython.yasoob.me/toc.html | |
+| CS自学指南 | https://csdiy.wiki/ | |
+| py352中文文档 | https://yiyibooks.cn/xx/python_352/index.html | |
+| Java全栈知识体系 | https://pdai.tech/ | |
+| git交互学习网站 | https://learngitbranching.js.org/?locale=zh_CN | |
+| 常用技术速查清单 | https://devhints.io/ | |
+| css演示及主题 | https://userstyles.world/ | 一个开源共享和浏览网站css样式及主题的网站 |
+| Linux命令大全 | https://www.linuxcool.com/ | |
+| requests官方文档 | https://docs.python-requests.org/zh_CN/latest/# | |
+
+# 实用工具
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 在线PS | https://www.remove.bg/zh | |
+| 在线工具 | https://tool.lu/ | |
+| ppt资源导航 | http://www.hippter.com/ | |
+| 图片工具 | https://docsmall.com/ | |
+| 优品ppt | https://www.ypppt.com/ | |
+| pdf派 | https://www.pdfpai.com/ | |
+| 文件转换器 | https://cn.office-converter.com/ | |
+| AI人工智能图片放大 | https://bigjpg.com/ | |
+| 圆角图片生成器 | https://www.dute.org/image-round | |
+| 截图拼接工具 | http://join-screenshots.zhanghai.me/ | |
+| 图像优化处理 | https://zh.recompressor.com/ | |
+| 词云生成器 | https://wordart.com/create | |
+| 在线字幕转化工具 | https://savesubs.com/zh | |
+| 在线语音合成 | https://www.coder.work/text2audio | |
+| 在线人声伴奏分离 | https://songdonkey.ai/ | |
+| 即时工具 | https://www.67tool.com/ | |
+| 在线视频提取音频 | https://www.apowersoft.cn/extract-audio-online | |
+| 微软AI语音 | https://toolb.cn/textspeech | |
+| 在线扒站工具 | https://bazhan.wang/ | |
+| md转思维导图 | https://markmap.js.org/ | |
+
+# 设计工具
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 设计师导航 | http://hao.uisdc.com/ | |
+| 设计前沿 | http://www.wzsky.net/ | |
+| 创意栖息 | http://www.ideaest.com/ | |
+| 字由 | https://www.hellofont.cn/ | 字体 |
+| seeseed灵感素材 | https://www.seeseed.com/ | |
+| 颜色狩猎 | https://colorhunt.co/ | |
+| 码力全开素材导航 | https://design.maliquankai.com/ | |
+| 英文文艺字生成 | http://emblemmatic.org/markmaker/#/ | |
+| 设计狮导航 | http://www.chuangzaoshi.com/ | |
+| 设计百宝箱 | https://uirush.com/ | |
+| ai调色板 | https://www.palettable.io/00CB9F | |
+| 睡醒设计师导航 | https://sx.supengjun.com/design/0 | |
+| 火星地图设计导航 | https://www.goto-mars.com/people/aLYqyNvYvd | |
+| ai上色 | https://petalica-paint.pixiv.dev/index_zh.html | |
+| 3d模型 | https://grabcad.com/library | |
+| 甲方设计导航 | http://jiafangbb.com/ | |
+| 奇迹秀设计导航 | http://www.qijishow.com/ | |
+| 中国色配色 | http://zhongguose.com/ | |
+| 渐变色 | https://webkul.github.io/coolhue/ | |
+| 企业logo图标 | https://www.logo.wine/ | 免费提供各大企业及其产品的 Logo 超清矢量图 |
+| 免费在线抠图 | https://picwish.cn/ | |
+| 图片无用信息擦除 | https://cleanup.pictures/ | |
+| 显示器外观素材 | https://dimmy.club/ | |
+| 电子设备尺寸图 | https://deviceshots.com/ | |
+| 字体导航 | https://hao.ziticq.com/ | |
+| colorspace | https://mycolor.space/ | 渐变色生成器 |
+| 猎色 | http://www.colorhunter.com/ | |
+| 千通彩色管理 | https://www.qtccolor.com/secaiku/ | 色彩采集·标准色库·空间转换·光谱转换·色差计算 |
+| 炫酷配色 | https://www.coocolors.com/ | 色彩采集·色卡制作·色彩代码查询·色彩名称·色彩格式转换 |
+| 在线调色工具 | https://colorme.io/ | |
+| 颜色语言 | https://www.flatuicolorpicker.com/ | Colors speak all the languages |
+| adobe color | https://color.adobe.com/zh/create/color-wheel | |
+| 52 个设计原则 | https://rpdc.xiaohongshu.com/52-design-principles | 每个原则都有来源推到、案例解读、边界限制 |
+| 关键词匹配颜色 | https://picular.co/ | |
+| 设计工具合集 | https://cccreate.co/ | |
+| 有拼啦字幕拼接 | https://www.yoo.la/ | |
+| 那些免费的砖 | https://www.thosefree.com/ | 发现设计/前端那些免费可商用的资源 |
+| 灰大设计导航 | https://www.pslkzs.com/nav.php | |
+| 设计规范 | https://www.pslkzs.com/ui/index.html | |
+| 日本传统色 | https://nipponcolors.com/ | |
+| 装喽自媒体导航 | https://www.zhuanglo.cn/ | |
+| addog广告导航 | https://www.addog.vip/ | 偏向：广告设计 |
+| 创造狮导航 | https://chuangzaoshi.com/ | |
+| mesh - y | https://meshgradient.in/ | 渐变色 |
+| 阿里巴巴矢量图标库 | https://www.iconfont.cn/ | |
+| UI集 | https://uiset.com/ | 免费UI资源仓库 |
+| doyoudo | https://www.doyoudo.com/resources | |
+
+# 书
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 资源帝电子书导航 | http://shu.ziyuandi.cn/ | |
+| 书享家 | http://shuxiangjia.cn/ | |
+| 熊猫搜书 | https://ebook.huzerui.com/#/ | 电子书聚合搜索 |
+| 豆瓣读书 | https://book.douban.com/ | |
+| 微信读书 | https://weread.qq.com/ | |
+| 偶书 | https://obook.cc/ | |
+| lorefree | https://lorefree.com/ | |
+| 阅读链 | https://www.yuedu.pro/ | |
+| 什么值得读 | https://www.shenmezhidedu.com/ | |
+| 漫画 | https://mox.moe | |
+| 千秋书庄 | https://www.qqszz.com/ | |
+| 读书小站 | https://ibooks.org.cn/ | |
+| thefuture | https://bks.thefuture.top/ | 书籍搜索 |
+| 全球杂志期刊 | https://magazinelib.com/ | pdf |
+| 得到主义 | https://www.gotist.com/ | |
+| kindle漫画 | http://www.jinfopai.com/ | |
+| libgen | http://libgen.rs/ | 非常强 |
+| bookzz | https://www.bookzz.ren/ | zlibrary它儿子 |
+| 读书笔记 | https://reading.geek-docs.com/ | |
+| 浙江图书馆 | https://www.zjlib.cn/ | |
+| 杂志 | http://qikan.lifves.com/ | |
+| 七彩英语 | http://www.qcenglish.com/ | 英文原著下载 |
+| 互助联盟 | https://xueshu86.com/ | |
+
+# 学术
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 学术导航 | http://www.4243.net/ | |
+| iData | https://www.cn-ki.net/ | |
+| 科塔学术 | https://site.sciping.com/ | |
+| 虫部落学术搜索 | https://scholar.chongbuluo.com/ | |
+| sci-hub | https://sci-hub.tech/ | |
+| 文献下载 | https://www.bookzz.ren/ | |
+| 开放获取学术论文平台 | https://core.ac.uk/ | |
+| 论文下载 | http://www.hi138.com/ | |
+| 库问文献搜索 | http://www.koovin.com/ | |
+| 熊猫学术 | https://sc.panda321.com/ | |
+| 论文阅读讨论社区 | https://readpaper.com/ | |
+| sci-hub | https://sci-hub.org.cn/ | |
+| SCIHUB可用链接 | https://tool.yovisun.com/scihub/ | |
+| 谷歌学术镜像 | https://ac.scmor.com/ | |
+| 大木虫学术导航 | http://www.4243.net/ | |
+| 库问搜索 | http://www.koovin.com/ | |
+| 国家哲学社会科学文献中心 | http://www.ncpssd.org | |
+| oalib | https://www.oalib.com/ | |
+
+# ios
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+# 素材
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 无版权图库 | https://www.pexels.com/zh-cn/ | |
+| 素材爱给网 | https://www.aigei.com/ | |
+| 免费商用字体 | https://www.100font.com/ | |
+| 图片素材 | https://unsplash.com/ | |
+| 音视频素材 | https://www.videvo.net/ | |
+| 爱给网 | https://www.aigei.com/course/soft/ps_plug_in | 各类免费素材 |
+| 免费图库相片 | https://www.pexels.com/zh-tw/ | |
+| png素材大全 | http://pngimg.com/ | |
+| psd repo | https://psdrepo.com/?imyshare.com=friends | |
+| psddd | https://psddd.co/?imyshare.com=friends | |
+| 365psd | https://cn.365psd.com/free-psd/architecture | |
+| ps素材 | https://www.mrcutout.com/ | |
+| ps素材01 | https://xoio-air.de/ | |
+| 麦设计素材 | https://www.maisj.net/ | 各类素材 |
+| free png | https://www.stickpng.com/ | 分类多样 |
+| 小森平的免费下载音效 | https://taira-komori.jpn.org/freesoundcn.html | |
+| 像素画素材 | https://dotown.maeda-design-room.net/ | |
+| piqsels | https://www.piqsels.com/zh | |
+| 剪影 | https://pimpmydrawing.com/ | cad剪影 |
+| pickfree | http://www.pickfree.cn/ | 免费素材导航 |
+
+# 影视
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| mvcat | http://www.mvcat.com/ | |
+| 影视森林 | http://www.549.tv/ | |
+| 电影狗 | https://www.dianyinggou.com/ | |
+| 不求人影视导航 | https://video.bqrdh.com/ | |
+| yyds影视 | https://yyds.fans/ | |
+| 樱花动漫 | http://www.dmh8.com/ | |
+| 嗯哩嗯哩 | https://enlienli.com/ | |
+| 查找英语电影台词 | http://www.taicishe.com/graded-movies | |
+| 柚子君影视 | http://yzjfilm.cn/app/index.html?id=200616nc | |
+| 电影日历 | https://www.cikeee.com/ | |
+| 点点字幕搜索 | http://www.ddzimu.com/ | |
+| R3字幕网 | https://r3sub.com/ | |
+| Subhd | https://subhd.tv/ | 字幕下载 |
+| A4k字幕网 | https://www.a4k.net/ | |
+| 电影狗搜索 | https://www.dianyinggou.com/ | |
+| 磁力精典 | https://zxmee.com/ | |
+| 小宇搜索 | http://xykmovie.com/ | |
+| 数据搜索2 | http://kelezj.com/apps/index.html?id=211229kl | |
+| 影猫的仓库 | https://ymck.me/ | |
+| 看奈飞 | https://kanetflix.com/ | |
+| 小悠家 | http://zyz.xiaouj.cn/ | |
+| 数据搜索3 | http://ss.xiaouj.cn/ | |
+
+# 美化
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| pc主题 | https://zhutix.com/ | |
+| 美化鸭 | http://www.eueui.com/index.html | |
+| 代码 to jpg | https://ray.so/ | |
+| imgg | https://imgg.gg/ | 以图片的方式截取并分享万物 |
+| 代码美化输出 | https://chalk.ist/ | |
+| k-v icon生成 | https://shields.io/ | |
+
+# 音乐
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| myfreeMP3 | http://tool.liumingye.cn/music/ | |
+| 音乐磁场 | https://www.hifini.com/ | |
+| 音色互联 | http://www.sswww.net/ | 无损音乐下载 |
+| 音乐直链搜索 | https://music.liuzhijin.cn/ | |
+| 51ape | https://www.51ape.com/ | 无损音乐下载 |
+| 麦克周 | https://mkzhou.com/ | 提供无损音乐百度网盘下载 |
+| listen1 | https://listen1.github.io/listen1/ | |
+| 无损音乐吧 | https://www.dtshot.com/ | |
+| 音乐仓库 | https://www.cangkus.com/ | |
+
+# 图
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 极简壁纸 | https://bz.zzzmh.cn/#classify | |
+| Font Awesome | https://fontawesome.dashgame.com/ | |
+| 逗比拯救世界 | http://www.dbbqb.com/ | |
+| emoji大全 | https://www.emojiall.com/zh-hans | |
+| awesome wall | https://wallhaven.cc/ | |
+| pixabay | https://pixabay.com/ | |
+| 图床ms | https://sm.ms/ | |
+| wlppr壁纸 | http://wlppr.co/ | |
+| wallroom | https://wallroom.io/ | |
+| wallpaperim | https://wallpaperim.net/ | |
+| undraw矢量图标 | https://undraw.co/illustrations | 一键更改所有矢量素材的颜色 |
+| 免费矢量图标 | https://www.manypixels.co/gallery | 每个素材都使用了渐变填充 |
+| 图虫 | https://tuchong.com/ | |
+| 3g壁纸 | https://www.3gbizhi.com/ | 专注于手机壁纸 |
+| 乌云高清壁纸站 | https://www.obzhi.com/ | |
+| 彼岸图网 | https://pic.netbian.com/ | |
+| 轻壁纸 | https://bz.qinggongju.com/ | |
+| 彼岸桌面 | http://www.netbian.com/ | |
+| wpcraft | https://wallpaperscraft.com/ | |
+| tg图床 | https://imgtg.com/ | |
+| 聚合图床 | https://www.superbed.cn/ | |
+| 图床导航 | http://imgdh.com/ | |
+| telegraph图床 | https://telegraph-image.pages.dev/ | 基于telegraph的图床 |
+| 遇见图床 | https://www.hualigs.cn/ | |
+| tg图床 | https://imgtg.com/ | |
+| 映画图床 | https://imgs.top/ | |
+
+# 查重
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| PaperAsk查重 | https://www.paperask.com/ | |
+| 万方免费查重 | https://chsi.wanfangtech.net/ | 应届生免费一次 |
+| PaperDay | https://www.paperday.cn/ | 标准版永久免费，旗舰版每日限免 |
+| 论文狗 | https://www.lunwengo.net/ | 每日免费一次 |
+| PaperYY | https://www.paperyy.com/ | 每日免费一次，11点多免费两次 |
+| FreeCheck | https://www.freecheck.cn/ | 每日免费一次 |
+| WritePass | https://www.writepass.cn/ | 每日1000个免费名额 |
+| 百度学术 | https://xueshu.baidu.com/usercenter/papercheck | 免费使用PaperTime一次 |
+| 秘塔写作猫 | https://xiezuocat.com/#/ | 写作改错和词语替换 |
+| 火龙果写作 | https://www.mypitaya.com/ | |
+
+# 学习
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 中国知网 | https://www.cnki.net/ | |
+| 中国大学mooc | https://www.icourse163.org/ | |
+| 学习通 | http://passport2.chaoxing.com/login?fid=&refer=http://i.mooc.chaoxing.com | |
+| 学堂在线 | https://next.xuetangx.com/ | |
+| 谷歌翻译 | https://translate.google.cn/ | |
+| 智慧树在线学堂 | https://www.zhihuishu.com/ | |
+| 腾讯课堂 | https://ke.qq.com/ | |
+| u校园 | https://u.unipus.cn/index.html/ | |
+| 公考资料 | http://gongkao6688.edudisk.cn/ | |
+| 英语真题在线 | https://zhenti.burningvocabulary.com/ | 历年真题分享 |
+| 英语学习导航 | https://www.up-6.com/ | |
+| 出国留学网 | https://m.liuxue86.com/sitemap.html | |
+| 中国法律快查手册 | https://lawrefbook.github.io/ | |
+
+# 校务
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+# 地图分析
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 规划云 | http://www.guihuayun.com/ | |
+| 自定义地图 | https://lbs.amap.com/product/mapstyle#/ | 高德地图 |
+| 地球在线 | https://www.earthol.com/ | |
+| Mapbox | https://www.mapbox.com/ | |
+| pixelmap | https://pixelmap.amcharts.com/ | |
+| cadmapper | https://cadmapper.com/ | 实际地形快速生成 |
+| 路网生成器 | https://anvaka.github.io/city-roads/ | |
+| 标准地图服务 | http://bzdt.ch.mnr.gov.cn/index.html | |
+| nbmap | https://nbcharts.com/map/map.php | |
+| 2.5d城市模型 | https://pissang.github.io/little-big-city/ | |
+
+# 插件扩展
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| extfan扩展插件下载 | https://www.extfans.com/all/ | |
+| 极简插件 | https://chrome.zzzmh.cn/ | |
+| chrome 网上应用店 | https://chrome.google.com/webstore/category/extensions?h1=zh | |
+| lookae各类插件 | https://www.lookae.com/qitarjcj/pszy/ | |
+| 亿品素材－PS插件 | http://www.epinv.com/post/category/plug-ins/ | 免费只提供城通网盘 |
+| 优设－PS插件 | https://www.uisdc.com/?s=PS+%E6%8F%92%E4%BB%B6 | 免费注册后可查看百度云 |
+| ps家园网 | https://www.psjia.com/pssc/plus/ | ps各类资源 |
+| 油猴中文网 | https://bbs.tampermonkey.net.cn/ | |
+| tm中文站 | https://www.tmchina.net/forum.php | 油猴脚本站 |
+| CrxDL插件库 | https://crxdl.com/ | 下载Chrome扩展插件Crx离线安装包 |
+| chrome666 | https://www.chrome666.com/ | chrome插件下载 |
+| greasyfork | https://greasyfork.org/zh-CN | |
+
+# 持续快乐
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 蒸汽波图像处理 | https://lab.magiconch.com/vaporwave/?from=home | |
+| 装逼制图 | https://cc.bjadjty.com/ | |
+| 沙雕APP - 沙雕导航 | https://shadiao.app/ | |
+| AI Gahaku | https://ai-art.tokyo/en/ | |
+| PixelMe像素人生 | https://pixel-me.tokyo/en/ | |
+| Mikutap | https://aidn.jp/mikutap/ | |
+| 果汁实验室 | http://guozhivip.com/lab/ | |
+| 5000万亿日元 | http://yurafuca.com/5000choyen/ | |
+| 有趣网站之家 | https://youquhome.com/ | |
+| 随机头像生成器 | https://avatar.gaoxiazhitu.com/ | |
+| notion风格头像生成 | https://notion-avatar.vercel.app/zh | |
+| 奇趣网站收集 | https://fuun.fun/ | |
+| 奇趣网站收集 | https://fuun.fun/ | |
+| 萌码 | https://mengma.moe/ | 火星文 |
+| 网名生成器 | https://www.qiwangming.com/ | |
+| 特殊符号 | https://www.jiuwa.net/ | |
+| 符号字 | https://www.fuhaozi.cn/ | |
+| 在线生成空白视频 | https://blank.aimu.app/ | 视频垃圾制造者，网站可以在线实时生成无内容的空白视频，格式为 |
+| 长链生成 | https://ooooooooooooooooooooooo.ooo/ | |
+| emoji 指定短链接 | https://emojied.net/ | |
+| 能不能好好说话？ | https://lab.magiconch.com/nbnhhsh/ | |
+| 电子包浆 | https://magiconch.com/patina/ | |
+| 梗图生成器 | https://x.magiconch.com/ | |
+| 字符字生成器 | https://magiconch.com/fontfont/ | |
+| 大学生活质量指北 | https://colleges.chat/ | |
+| 以西帮你百度 | https://y1xifuuuuuukbd.vercel.app/ | |
+| 宇宙超级无敌牛逼密码生成 | https://shit-password.vercel.app/ | |
+| 网易云热评墙 | https://www.musicbooks.cn/ | |
+| rua一下 | https://benisland.neocities.org/petpet/ | |
+| chatgpt | https://chat.openai.com/chat | |
+| 自统网 | https://zi.tools/?secondary=ids | |
+
+# 游戏
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| flysheep | http://flysheep.ys168.com/ | |
+| gbt游戏小组 | http://gbtgame.ys168.com/ | |
+| 打字练习 | https://www.typelit.io/ | |
+| flysheep避难所 | http://www.flysheep6.com/ | |
+| GTB游戏乐赏 | http://gbtgame.ys168.com/ | |
+| 贝塞尔曲线游戏 | https://bezier.method.ac/ | |
+| slither 贪吃蛇 | http://slither.io/ | |
+| 红色警戒 | https://game.chronodivide.com/ | |
+| Minecraft | https://classic.minecraft.net/ | |
+| 🚗 | https://bruno-simon.com/ | |
+| Sinuous | http://www.sinuousgame.com/ | |
+| byrut | https://byrut.org/ | steam库，挂v |
+| ByRutor | https://byrut.org/ | |
+| steam_info | https://steamdb.info/ | |
+| 五子棋计算器 | https://gomocalc.com/ | |

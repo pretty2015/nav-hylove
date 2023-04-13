@@ -1,0 +1,202 @@
+背景图：https://tc1.echs.top/dn.jpg
+竖版背景图：https://tc1.echs.top/sj.jpg
+音乐：开发中 后序支持
+# 资源网站
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 天翼小站|资源 | https://yun.hei521.cn/ | |
+| 果核剥壳|软件 | https://www.ghxi.com | |
+| 夜雨聆风|软件 | https://www.yeyulingfeng.com/ | |
+| 芊芊经典|软件 | https://myqqjd.com/ | |
+| 423Down|软件 | https://www.423down.com/ | |
+| 不死鸟 | 分享 | https://iao.su/ | |
+| 晨钟酱工具箱 | https://jamcz.com/ | |
+| 异星软件空间 | https://www.yxssp.com/ | |
+| 马小帮资源站 | https://www.maxiaobang.com/ | |
+| 枫音应用|软件 | https://www.fy6b.com/ | |
+| 蓝鲨还原应用 | https://www.lan-sha.com/ | |
+| 雨夜回廊|收集 | https://docs.myql.fun/ | |
+| 六音软件|软件 | https://sixyin.com/ | |
+| 片库BTNULL | https://www.btnull.org/ | |
+| 二次寒树|收集 | https://echs.top/ | |
+
+# 在线工具
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 参数化二维码 | https://qrbtf.com/?hao.su | |
+| 艺术字体转换 | http://www.akuziti.com/ | |
+| 实时热榜|新闻 | https://momoyu.cc/ | |
+| logo在线制作 | http://www.uugai.com/ | |
+| 图片在线编辑 | https://photokit.com/?lang=zh | |
+| 在线音频编辑 | https://vocalremover.org/ch/ | |
+| mikutools工具 | https://tools.miku.ac/ | |
+| 链接提取工具 | https://it365.gitlab.io/zh-cn/link-finder/ | |
+| 在线图片压缩 | https://docsmall.com/ | |
+| 迅捷PDF转换 | https://app.xunjiepdf.com/ | |
+| Y2mate|油管 | https://www.y2mate.com/ | |
+| 在线文字处理 | https://www.qqxiuzi.cn/daohang.htm | |
+| 极简壁纸下载 | https://bz.zzzmh.cn/ | |
+| Picx github图 | https://picx.xpoet.cn/#/tutorials | |
+
+# Android
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 便捷下载|嗅探 | https://www.coolapk.com/apk/com.lcw.easydownload | |
+| 冰箱|冻结卸载 | https://www.coolapk.com/apk/com.catchingnow.icebox | |
+| KB 视频工厂 | https://www.coolapk.com/apk/com.idaodan.video.factory | |
+| 图叨叨修图器 | https://www.coolapk.com/apk/com.lcw.daodaopic | |
+| 一个木函|工具 | http://www.woobx.cn/#home | |
+| pure天气|精准 | https://www.coolapk.com/apk/hanjie.app.pureweather | |
+| 多看阅读|本地 | https://echs.lanzoui.com/iNEqcrncylc | |
+| 酷安精简版|荐 | https://echs.lanzouw.com/iqXK5w5cg8d | |
+| 腾讯文件精简 | https://echs.lanzoui.com/iYQpRrnddub | |
+| WPS Pro 官方 | http://dev.rubaoo.com/TimeDiaryV2/s/MWpvcDk= | |
+| IDM+ |魔改版 | https://www.lanzoul.com/b00nex2wf | |
+| 照片编辑器|改 | https://echs.lanzoui.com/ideosrnp3ud | |
+| pixEz|p站免翻 | https://github.com/Notsfsssf/pixez-flutter | |
+| MT管理器 | 荐 | https://www.coolapk.com/apk/bin.mt.plus | |
+| 雪豹速清|清理 | https://www.coolapk.com/apk/com.idaodan.clean.master | |
+| Qboost 核心 | https://echs.lanzoub.com/iJUIi0rpujcj | |
+| 极序|实用工具 | https://www.norkm.com/ | |
+| CloudPlayer | https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayerPro&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dcloudplayer&pcampaignid=APPU_1_EpwYZKrVDOSMseMP0-GC8AQ | |
+| OPlayer高级版 | http://pan.echs.top/com.olimsoft.android.oplayer.pro_1045002100.apk?preview | |
+| 第三方蓝奏云 | https://lanyun.vercel.app | |
+| 星空视频壁纸 | https://www.coolapk.com/apk/yyc.xk | |
+| 次元壁纸|lsp | https://www.coolapk.com/apk/me.alzz.awsl | |
+| Snapseed修图 | https://www.coolapk.com/apk/com.niksoftware.snapseed | |
+| Quickpic极简 | https://echs.lanzouw.com/iNkwMwm25zg | |
+| Niagara修改版 | https://echs.lanzouw.com/iAgbfxwc4sj | |
+| 自动换壁纸|荐 | https://echs.lanzouw.com/ichPwx8wfjc | |
+| vmos修改|rom | https://shimo.im/docs/m5kv9VeYpPcNwqX0/ | |
+| 李跳跳|去广告 | https://echs.lanzouw.com/iOYpWzvevvc | |
+| nekogram|TG | https://nekogram.app/ | |
+| 自定义桌面|荐 | https://www.coolapk.com/apk/com.tumuyan.fixedplay | |
+| 115小幸运|alist | https://www.52pojie.cn/thread-1691485-1-1.html | |
+| 狐猴浏览器|荐 | https://lemurbrowser.com/app/zh/ | |
+| 密码键盘|多端 | https://www.coolapk.com/apk/com.kongzue.secretinput | |
+| 应用设备信息 | https://www.coolapk.com/apk/com.liuzh.deviceinfo | |
+| 无障碍管理器 | https://www.coolapk.com/apk/com.accessibilitymanager | |
+| 五音助手|音乐 | https://mp.weixin.qq.com/s/u7IllGgKSe71SjRxz6ALaQ | |
+| RV YouTube | https://www.yxssp.com/40279.html | |
+| niagara启动器 | https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US&referrer=utm_source%3Dgoog | |
+| 固定通知隐藏 | https://www.coolapk.com/apk/com.assistant.ongoingclear | |
+| Tik Tok 解锁 | https://www.yxssp.com/43982.html | |
+| Reex 播放器 | https://www.coolapk.com/apk/xyz.re.player.ex | |
+| AnyLauncher | https://www.coolapk.com/apk/com.tumuyan.fixedplay | |
+| 在线视频观看 | https://naws.lanzouo.com/iFPar0px9ikb | |
+| 一键墓碑模式 | https://www.coolapk.com/apk/com.ma.switchfreezer | |
+| 果仁相册|同步 | https://www.coolapk.com/apk/io.zhuliang.pipphotos | |
+
+# Windows
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 火绒安全 | Win | https://www.huorong.cn/ | |
+| 完美解码|推荐 | https://jm.wmzhe.com/ | |
+| 稻壳 阅读器 | http://www.daokeyuedu.com/ | |
+| Bandizip压缩 | https://423down.lanzouo.com/b0f1mc0cd | |
+| 蓝奏云客户端 | https://github.com/chenhb23/lanzouyun-disk | |
+| 微信防撤回版 | https://423down.lanzouo.com/b0f1ada0f | |
+| TIM防撤回版 | https://423down.lanzouo.com/b0f1ada0f | |
+| 迅雷极限精简 | https://www.52pojie.cn/thread-1125305-1-1.html | |
+| Traffic悬浮窗 | https://gitee.com/zhongyang219/TrafficMonitor | |
+| NeatConverte | https://www.neat-reader.cn/downloads/converter | |
+| WPS2016极简 | https://423down.lanzouo.com/iL3Ocpyec3i | |
+| W P D 工具箱 | https://wpd.app/ | |
+| 64Gram | TG | https://github.com/TDesktop-x64/tdesktop/releases | |
+| PhotoDemon | https://github.com/tannerhelland/PhotoDemon/releases | |
+| start11破解版 | https://423down.lanzouo.com/b0f1rgl8j | |
+| freeshoot截图 | https://www.henrypp.org/product/freeshooter | |
+| 隐藏桌面图标 | https://echs.lanzouw.com/iIgtGzvhpxg | |
+| Clavier 快捷键 | https://echs.lanzouw.com/iq27Bzvhsyf | |
+| I D M 下载器 | https://423down.lanzouo.com/b0f3ahu0b | |
+| 洋芋图像工具 | https://www.potatofield.cn/imagetoolkit/ | |
+| Imagine图压缩 | https://github.com/php-imagine/Imagine | |
+| 洛雪音乐助手 | https://sixyin.com/8498.html | |
+| WiseCare365 | https://www.423down.com/3471.html | |
+| HiBit软件卸载 | http://www.hibitsoft.ir/Uninstaller.html | |
+| Paste Ex 复制 | https://github.com/huiyadanli/PasteEx | |
+| 文件管理透明 | https://github.com/Maplespe/ExplorerBlurMica/releases | |
+| memreduct | https://github.com/henrypp/memreduct | |
+| anywebp压缩 | https://anywebp.com/software.html | |
+| Icalingua + + | https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases | |
+| Dism++ | 工具 | https://github.com/Chuyu-Team/Dism-Multi-language/releases | |
+
+# Browser
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 百分浏览器PC | https://www.centbrowser.cn/ | |
+| Chrome | PC | https://www.google.com/chrome/ | |
+| Lemur | 安卓 | https://lemurbrowser.com/app/zh/ | |
+| K i w i | 安卓 | https://www.apkmirror.com/apk/geometry-ou/ | |
+| 浏览器主页|荐 | https://xydh.fun/echsfxy | |
+
+# 扩展插件
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| Super Copy | https://chrome.google.com/webstore/detail/supercopy-enable-copy/onepmapfbjohnegdmfhndpefjkppbjkm | |
+| 网络代理助手 | https://chrome.google.com/webstore/detail/proxy-helper/mnloefcpaepkpmhaoipjkpikbnkmbnic | |
+| Floccus 书签 | https://chrome.google.com/webstore/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg | |
+| Custom 按钮 | https://chrome.google.com/webstore/detail/custom-shortcut-button/kcmejemnmnheajipjgilcefofjchdafg | |
+| tampermonkey | https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo | |
+| adguard去广告 | https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg | |
+| Bitwarden 密码 | https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb | |
+| 自定义新标签页 | https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna | |
+| 发送links到TG | https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc | |
+| Adguard 规 则 | https://adrules.top/adblock_lite.txt | |
+| 书签同步方案 | https://echs.top/browser | |
+
+# 油猴脚本
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| 知乎网站美化 | https://greasyfork.org/scripts/412212 | |
+| 去网站重定向 | https://greasyfork.org/scripts/11915 | |
+| 网盘智能识别 | https://www.youxiaohou.com/panai.user.js | |
+| onedrive空间 | https://greasyfork.org/scripts/425937 | |
+| 知乎网站增强 | https://greasyfork.org/scripts/419081 | |
+| 字体渲染优化 | https://github.com/F9y4ng/GreasyFork-Scripts/raw/master/Font%20Rendering.user.js | |
+| CSDN去广告 | https://greasyfork.org/scripts/378351 | |
+| 网盘直链下载 | https://greasyfork.org/zh-CN/scripts/449291-%E6%94%B9-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B% | |
+| 蓝奏云盘增强 | https://greasyfork.org/scripts/419224 | |
+
+# 网络相关
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| Clash | 安 卓 | https://github.com/Kr328/ClashForAndroid/releases | |
+| 魔戒|机场订阅 | https://www.mojie.vip/#/register?code=zBuQHqPk | |
+| SSRRAY | 安卓 | https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases | |
+| Clash for | PC | https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases | |
+| 八戒机场|稳贵 | https://bajie.one/#/register?code=WIzk3Sw0 | |
+| 代理相关整理 | https://echs.top/proxy | |
+| DNS changer | https://echs.lanzoub.com/i2fXPz8evoh | |
+| DNS-Lock_x64 | https://echs.lanzoub.com/iOz4tyxkm6f | |
+
+#
+
+| 名称 | 链接 | 介绍 |
+| ---- | ---- | ---- |
+| CommentNotif | https://github.com/jrotty/CommentNotifier | |
+| TpHtmlCache | https://github.com/huhaku/typecho_TpHtmlCache | |
+| Rdog用户插件 | https://github.com/jrotty/Rdog | |
+| T Y 常用函数 | https://xxi.icu/index.php/archives/119/ | |
+| cuteen美化教程 | https://xxi.icu/index.php/archives/53/ | |
+| Typecho 博客 | https://typecho.org/download | |
+| 虚拟主机|自用 | https://wpa.qq.com/msgrd?v=3&uin=2923191971&menu=yes | |
+| 来此加密SSL | https://letsencrypt.osfipin.com/ | |
+| Cuteen 主题 | https://blog.zwying.com/archives/76.html | |
+| 萌国 ICP备案 | https://icp.gov.moe/ | |
+| 青龙自动签到 | https://github.com/Sitoi/dailycheckin | |
+| RssHub 订阅 | https://github.com/DIYgod/RSSHub | |
+| OneManager | https://github.com/qkqpttgf/OneManager-php | |
+| OneNav 主页 | https://github.com/helloxz/onenav | |
+| Alist网盘程序 | https://github.com/alist-org/alist | |
+| namesilo域名 | https://www.namesilo.com/ | |
+| TpCache魔改版 | https://github.com/gogobody/TpCache | |
+| SimpleAdmin | https://github.com/gogobody/SimpleAdmin | |
